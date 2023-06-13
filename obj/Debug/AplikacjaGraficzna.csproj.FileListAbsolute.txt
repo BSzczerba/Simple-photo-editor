@@ -1,0 +1,10 @@
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\bin\Debug\AplikacjaGraficzna.exe.config
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\bin\Debug\AplikacjaGraficzna.exe
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\bin\Debug\AplikacjaGraficzna.pdb
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.csproj.AssemblyReference.cache
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.Properties.Resources.resources
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.exe
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.pdb
+C:\Users\Bartek\Desktop\studium\C#\sem6\AplikacjaGraficzna\AplikacjaGraficzna\obj\Debug\AplikacjaGraficzna.FormEdytoraGraficznego.resources
